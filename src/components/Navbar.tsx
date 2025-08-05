@@ -9,6 +9,7 @@ const Navbar = () => {
       style={{ height: `${NAVBAR_HEIGHT}px` }}
     >
       <div className="flex justify-between items-center w-full py-3 px-8 bg-700">
+        <div className="flex items-center gap-4">
         </div>
       </div>
     </div>
